@@ -11,7 +11,7 @@ API REST para gestión de tareas (Tasks) desarrollada con Spring Boot, Kotlin y 
 
 Esta es una API REST completa que permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre tareas. Desarrollada como proyecto educativo para aprender Spring Boot con Kotlin.
 
-## ✨ Características
+## Características
 
 - ✅ CRUD completo de tareas
 - ✅ Filtrado de tareas por estado (completadas/pendientes)
